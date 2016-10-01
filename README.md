@@ -2,7 +2,7 @@
 
 [Ansible](https://www.zeromq.org) - Connect your code in any language, on any platform.
 
-[![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
+![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)[![](https://images.microbadger.com/badges/image/aaronpederson/ansible.svg)](https://microbadger.com/images/aaronpederson/ansible "Get your own image badge on microbadger.com")
 
 Tunables
 --------
